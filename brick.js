@@ -2,7 +2,7 @@ import { detectCollision } from "./collisionDetection";
 
 export default class Brick {
   constructor(game, position) {
-    this.image = document.getElementById("img_brick");
+    this.image = document.getElementById("ybhubmax10.github.io/brick.jpeg");
 
     this.game = game;
 
