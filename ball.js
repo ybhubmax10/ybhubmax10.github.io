@@ -2,7 +2,7 @@ import { detectCollision } from "./collisionDetection";
 
 export default class Ball {
   constructor(game) {
-    this.image = document.getElementById("05-62680_KidsReplacementBall_Green_A.webp");
+    this.image = document.getElementById("ybhubmax10.github.io/images.png");
 
     this.gameWidth = game.gameWidth;
     this.gameHeight = game.gameHeight;
